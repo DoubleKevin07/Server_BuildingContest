@@ -1,0 +1,4 @@
+Building Contest
+
+It's a building contest minigame!
+do /startContest <theme> <time> to start!
